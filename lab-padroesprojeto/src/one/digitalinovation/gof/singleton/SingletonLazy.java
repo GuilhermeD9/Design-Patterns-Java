@@ -1,4 +1,4 @@
-package one.digitalinovation.gof;
+package one.digitalinovation.gof.singleton;
 
 public class SingletonLazy {
     private static SingletonLazy instancia;
